@@ -143,9 +143,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at many fin-tech
-              companies <a href="https://sunwaymoney.com/">Sunway Money</a>,{' '}
+              companies
+              <a href="https://sunwaymoney.com/">Sunway Money</a>,{' '}
               <a href="https://setel.com/">Setel</a>,{' '}
-              <a href="https://moneylion.com/">Moneylion </a>, and{' '}
+              <a href="https://moneylion.com/">Moneylion </a>
             </p>
 
             <p>
